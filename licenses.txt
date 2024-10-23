@@ -1,0 +1,10 @@
+The following third party components are used by ActiveLook Software and are incorporated in the Firmware of following products:
+
+Engo, Engo2:
+- SDK DA14681. Dialog proprietary license. https://www.renesas.com/en/products/wireless-connectivity/bluetooth-low-energy/da14681-smartbond-bluetooth-low-energy-42-system-chip-soc#design_development
+- X-CUBE-6180XA1. PLLA license for ST materials. https://www.st.com/en/embedded-software/x-cube-6180xa1.html
+- GRLIB. BSD license. https://www.ti.com/tool/MSP-GRLIB
+- Heatshrink. ISC license. https://github.com/atomicobject/heatshrink
+- Littlefs. BSD3 license. https://github.com/littlefs-project/littlefs
+- Printf. MIT license. https://github.com/mpaland/printf
+
